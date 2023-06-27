@@ -1,0 +1,2 @@
+export const HANDLEEERRORS =  'HANDLEEERRORS'
+export const CLEARERRORS = 'CLEARERRORS'
